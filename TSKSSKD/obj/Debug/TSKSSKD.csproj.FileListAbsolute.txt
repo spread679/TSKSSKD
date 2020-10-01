@@ -1,0 +1,12 @@
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\bin\Debug\TSKSSKD.exe.config
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\bin\Debug\TSKSSKD.exe
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\bin\Debug\TSKSSKD.pdb
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\bin\Debug\TSKLSKD.dll
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\bin\Debug\TSKLSKD.pdb
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.csprojAssemblyReference.cache
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.ProjectInstaller.resources
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.csproj.GenerateResource.cache
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.csproj.CoreCompileInputs.cache
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.csproj.CopyComplete
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.exe
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKSSKD\obj\Debug\TSKSSKD.pdb

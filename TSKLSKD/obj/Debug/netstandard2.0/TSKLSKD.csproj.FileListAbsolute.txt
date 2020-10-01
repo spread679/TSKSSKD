@@ -1,0 +1,8 @@
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\bin\Debug\netstandard2.0\TSKLSKD.deps.json
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\bin\Debug\netstandard2.0\TSKLSKD.dll
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\bin\Debug\netstandard2.0\TSKLSKD.pdb
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\obj\Debug\netstandard2.0\TSKLSKD.AssemblyInfoInputs.cache
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\obj\Debug\netstandard2.0\TSKLSKD.AssemblyInfo.cs
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\obj\Debug\netstandard2.0\TSKLSKD.csproj.CoreCompileInputs.cache
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\obj\Debug\netstandard2.0\TSKLSKD.dll
+C:\Users\riccardo\Desktop\lavoro\riccardo\c_sharp\TSKSSKD\TSKSSKD\TSKLSKD\obj\Debug\netstandard2.0\TSKLSKD.pdb

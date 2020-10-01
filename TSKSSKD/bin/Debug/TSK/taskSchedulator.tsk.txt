@@ -1,0 +1,13 @@
+# author: spread
+# program: TSKSSKD v. 1.0.0
+# description: scheduler service
+#
+# To start a service you need to enter a batch or executable file like the follow:
+# [minute]	[hour]	[day]	[month]	[week]	[file to execute]
+# example:
+# 1	*	*	*	*	C:\path\executable\file.exe
+# Remember to use tab between the different specification
+#
+# In the week you can enter the week in these format: Sun-Mon-Tue-Wed-Thu-Fri-Sat or 0-1-2-3-4-5-6
+# the time will be a specific time
+#
